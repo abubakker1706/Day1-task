@@ -1,0 +1,64 @@
+Statically and dynamically typed language
+
+Statically typed language
+
+
+
+
+1.Statically typed language perform type checking at compile time.
+2.In statically typed language you need to declare the datatype before using them.
+3.Example for statically typed language are java ,c and c++
+ example for statically typed language 
+In java;
+int num = 10 
+In above example  int num is present , num’s which define that datatype as int . so the java expect  its variable to declare before they can be assigned value
+
+Dynamically typed language
+
+1.Dynamically typed language perform type checking at runtime
+2.In dynamically  typed language no need to declare a data type before using them
+3.Example for dynamically  typed language are java script,groove
+example for dynamically typed language 
+In java script;
+
+num = 10;
+In above example,we didn’t declare any data type like int ,str .so java script didn’t expect its variable to declare before using  them
+
+
+
+
+
+Scripting language and Programming language
+
+Scripting language
+
+1.Scripting language is a programming language supporting scripts written exclusively for a special runtime environment to automate a specific action/function execution.
+2.Scripting languages run inside another program.
+3.Scripting languages are made to make coding easier and faster.
+4.Scripting languages, on the other hand, demand line-by-line conversion.
+5.Example ; java script, python , ruby
+
+
+Programming language
+
+1.Programming language is a set of instructions that can be fed into a computer to achieve a specific output.
+2.Programming languages run independently of a parent program
+3.Programming languages are made to make full-fledged code and software development easier.
+4.Programming languages use a compiler, it is a one-shot conversion. 
+5.Example; c ,c++ ,java
+
+
+HTTP1.1 & HTTP2
+
+HTTP1.1 vs  HTTP2
+
+HTTP1.1	HTTP2
+1.It  load the data one by one 
+If one resource cannot be load then another data will block from behind	1.It send multiple data at same time
+2.It will not split data ,so  the client will not know what data is receiving	2.It splitting the data and numbering them so the client know which  data is receiving
+3.it works under udp connection	3.it works under tcp connection
+4.its compress the data less compare to http2	4. its compress the data in advance method is called Hpack
+
+
+
+
